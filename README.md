@@ -2,6 +2,13 @@
 
 This is a simple **Online Shopping Store** website designed using **HTML** and **CSS** as part of my **ICT course project** in my **1st semester at FAST NUCES Karachi**.
 
+## 👨‍💻 Contributors
+
+- **Ariza Iqbal** – [24K-0854] [Team Leader]
+- **Manahil Abbas** – [24K-1026]  
+- **Armeen Azam** – [24K-0654]
+- **Laiba Jamil** – [24K-0856]
+
 ## 🌐 Project Overview
 
 The goal of this project was to demonstrate fundamental web development skills using HTML and CSS. The site presents a clean, static interface that simulates an online store experience, including sections for featured products, categories, and a user-friendly layout.
