@@ -7,7 +7,7 @@ This is a simple **Online Shopping Store** website designed using **HTML** and *
 - **Ariza Iqbal** – [24K-0854] [Team Leader]
 - **Manahil Abbas** – [24K-1026]  
 - **Armeen Azam** – [24K-0654]
-- **Laiba Jamil** – [24K-0856]
+- **Laiba Jamil** – [24K-0812]
 
 ## 🌐 Project Overview
 
